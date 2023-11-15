@@ -1,0 +1,15 @@
+[submodule "FbMatchPredictor"]
+	path = FbMatchPredictor
+	url = https://github.com/charlieqf/FbMatchPredictor
+[submodule "clustering/Clustering-with-LLM"]
+	path = clustering/Clustering-with-LLM
+	url = https://github.com/charlieqf/clustering/Clustering-with-LLM
+[submodule "medium"]
+	path = medium
+	url = https://github.com/charlieqf/medium
+[submodule "npl/Non-Performing-Loans-Detection-Using-XGBoost"]
+	path = npl/Non-Performing-Loans-Detection-Using-XGBoost
+	url = https://github.com/charlieqf/npl/Non-Performing-Loans-Detection-Using-XGBoost
+[submodule "xgboost/classification-xgboost-bayesopt"]
+	path = xgboost/classification-xgboost-bayesopt
+	url = https://github.com/charlieqf/xgboost/classification-xgboost-bayesopt
